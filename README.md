@@ -7,10 +7,10 @@
 2.	Организовать функцию вставки значения в бинарное дерево
 
 <div style="color:red;"> Задание 3 </div>
-Для типа «односвязанный неизменяемый список», определенного как
-  Class ListNode<T> {
-      Public readonly T Value;
-      Public readonly ListNode<T> Next;
-      …
-  }
+Для типа «односвязанный неизменяемый список», определенного как <br/>
+  Class ListNode<T> { <br/>
+      Public readonly T Value; <br/>
+      Public readonly ListNode<T> Next; <br/>
+      … <br/>
+  } <br/>
 Написать две функции: замены элемента в списке и объединения двух списков.
