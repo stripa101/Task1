@@ -8,9 +8,10 @@
 
 <div style="color:red;"> Задание 3 </div>
 Для типа «односвязанный неизменяемый список», определенного как <br/>
-  Class ListNode<T> { <br/>
-      Public readonly T Value; <br/>
-      Public readonly ListNode<T> Next; <br/>
+  class ListNode<T> <br/>
+  { <br/>
+   <div style:'margin-left: 20%;'>  public readonly T Value; <div> <br/>
+      public readonly ListNode<T> Next; <br/>
       … <br/>
   } <br/>
 Написать две функции: замены элемента в списке и объединения двух списков.
